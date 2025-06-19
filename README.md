@@ -46,25 +46,4 @@
 
 ---
 
-## 🚀 Быстрый старт
 
-1. Клонировать:
-   ```bash
-   git clone git@github.com:<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
-   cd <YOUR_REPOSITORY>
-   ```
-2. Подготовить окружение:
-   ```bash
-   cp .env.example .env
-   ```
-3. Запуск:
-   ```bash
-   docker-compose up --build
-   ```
-4. Открыть:
-   - Swagger UI: `http://localhost:8000/docs`  
-   - Redoc: `http://localhost:8000/redoc`
-
----
-
-**Присоединяйтесь к разработке и делайте Monitoring ещё лучше!**  
